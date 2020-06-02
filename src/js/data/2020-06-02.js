@@ -564,7 +564,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mima",
-    img: "3ekPRF1.jpg?1",
+    img: "3ekPRF1.jpg",
     opts: {
       series: ["HRtP", "SoEW", "PoDD", "MS"],
       stage: ["st3", "st5", "st6"]
