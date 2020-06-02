@@ -8,7 +8,7 @@
  * 
  * @type {Object.<string, {options: Options, characterData: CharData}>}
 */
-const dataSet = {};
+const dataSet = {2020-06-02};
 
 /** 
  * Data set version, in YYYY-MM-DD form.
