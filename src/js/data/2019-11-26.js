@@ -10,7 +10,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Trails in the Sky FC", key: "skyfc" },
       { name: "Trails in the Sky SC", tooltip: "01 - Reiiden", key: "HRtP" },
-      { name: "The Story of Eastern Wonderland", tooltip: "02 - Fuumaroku", key: "SoEW" },
+      { name: "Trails in the Sky the 3rd", tooltip: "02 - Fuumaroku", key: "SoEW" },
       { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
       { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
       { name: "Mystic Square", tooltip: "05 - Kaikidan", key: "MS" },
@@ -67,10 +67,10 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    name: "Sora no Kiseki",
+    img: "rbFKdHE.jpg?1",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
+      series: [ "skyfc" ],
       stage: ["st4"]
     }
   },
@@ -1008,9 +1008,9 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mima",
-    img: "odH03t2.png",
+    img: "3ekPRF1.jpg?1",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "MS"],
+      series: ["skysc"],
       stage: ["st3", "st5", "st6"]
     }
   },
@@ -1018,7 +1018,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Elis",
     img: "ytnL1xd.png",
     opts: {
-      series: ["HRtP"],
+      series: ["sky3rd"],
       stage: ["st5"]
     }
   },
