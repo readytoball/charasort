@@ -17,15 +17,11 @@ dataSet[dataSetVersion].options = [
       { name: "Trails of Cold Steel 2", key: "cs2" },
       { name: "Trails of Cold Steel 3", key: "cs3" },
       { name: "Trails of Cold Steel 4", key: "cs4" },
-	  { name: "Battle Music", key: "battle"},
+	  ,
     ]
   },
  
-  {
-    name: "Remove White Magnolia",
-    key: "play",
-    tooltip: "Remove songs from FC's Madrigal of the White Magnolia."
-  },
+
   {
     name: "Remove Arc en Ciel",
     key: "arc",
@@ -51,250 +47,229 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Provincial City of Rolent",
     img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"}},
+  {
+    name: "Rock on the Road",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Sophisticated Fight",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: [ "skyfc"]}
+  },
+  {
+    name: "Defeat",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Tetracyclic Tower",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"]}
+  },
+  {
+    name: "Under the Moonlight",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "A Cat Relaxing in the Sun",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: [ "skyfc"],
+    }
+  },
+  {
+    name: "Secret Green Passage",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "In My Heart",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "The Way They Walk in Liberl",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Commercial City of Bose",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Border Patrol Isn't Easy",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Steel Floor Blocking the Way",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "We Are the Capua Family!",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "To Be Suggestive",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"]	}
+  },
+  {
+    name: "Pinch",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Disappearing Star",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"]
+    }
+  },
+  {
+    name: "Seaport City of Ruan",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: [ "skyfc"],
+    }
+  },
+  {
+    name: "Don't Let Him Go!",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Pride of Liberl",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Creeping Crisis",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Wandering in the Darkness",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Factory City of Zeiss",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Peace Bestowed by Twilight",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Leiston Fortress",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Engaged People in Secret Maneuvers",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Royal Capital of Grancel",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Grand Arena",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Challenger Invited",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Royal Castle",
+    img: "rbFKdHE.jpg?1",
+    opts: {
+      series: ["skyfc"],
+    }
+  },
+  {
+    name: "Recapture",
+    img: "rbFKdHE.jpg?1",
     opts: { series: ["skyfc"}
   },
   {
-    name: "Daiyousei",
-    img: "NWlZud3.png",
-    opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
+    name: "Silver Will",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"}
   },
   {
-    name: "Cirno",
-    img: "qdveFSy.png",
+    name: "Hollow Light of the Sealed Land",
+    img: "rbFKdHE.jpg?1",
     opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
-      ],
-      stage: ["st2"]
+      series: ["skyfc"],
     }
   },
   {
-    name: "Hong Meiling",
-    img: "ptGp0x4.png",
-    opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
+    name: "Ancient Makes",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"]	}
   },
   {
-    name: "Koakuma",
-    img: "vBKdDm4.png",
-    opts: { series: ["book", "EoSD"], stage: ["st4"] }
+    name: "Those Who Protect the Greatest Treasure",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
   },
   {
-    name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
+    name: "Go in Good Cheer",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Release from the Spell, and...",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Confession",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Decision to Leave",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
+  },
+  {
+    name: "Hoshi no Arika",
+    img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
-      stage: ["st4", "ex"]
-    }
-  },
-  {
-    name: "Izayoi Sakuya",
-    img: "sgZPf11.png",
-    opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "HM", "DDC", "ISC"
-      ],
-      stage: ["st5", "st6"]
-    }
-  },
-  {
-    name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
-    opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
-    opts: { series: ["book", "EoSD", "StB"], stage: ["ex"] }
-  },
-  {
-    name: "Letty Whiterock",
-    img: "MgzqjFK.png",
-    opts: { series: ["book", "PCB", "StB", "HM"], stage: ["st1"] }
-  },
-  {
-    name: "Chen",
-    img: "ohmetZh.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "StB", "MoF", "Soku", "HM"],
-      stage: ["st2", "ex"]
-    }
-  },
-  {
-    name: "Alice Margatroid",
-    img: "aDIf0pN.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
-      stage: ["st3"]
-    }
-  },
-  {
-    name: "Lily White",
-    img: "2Pr8b2N.png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4", "ex"] }
-  },
-  {
-    name: "Lunasa Prismriver",
-    img: "htOMdDQ.png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
-  },
-  {
-    name: "Merlin Prismriver",
-    img: "PrRPujP.png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
-  },
-  {
-    name: "Lyrica Prismriver",
-    img: "ze79bFC.png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
-  },
-  {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
-    opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "TD", "HM", "ISC"
-      ],
-      stage: ["st5", "st6"]
-    }
-  },
-  {
-    name: "Saigyouji Yuyuko",
-    img: "VT9mTGb.png",
-    opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "TD", "HM", "ISC"
-      ],
-      stage: ["st1", "st6"]
-    }
-  },
-  {
-    name: "Yakumo Ran",
-    img: "rshnJPV.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Yakumo Yukari",
-    img: "qsceD4I.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Ibuki Suika",
-    img: "pLdMjQ3.png",
-    opts: {
-      series: ["book", "IaMP", "StB", "MoF", "Soku", "DS", "HM", "ISC"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Wriggle Nightbug",
-    img: "8DLUAPf.png",
-    opts: { series: ["book", "IN", "StB", "HM"], stage: ["st1"] }
-  },
-  {
-    name: "Mystia Lorelei",
-    img: "6KyhLqE.png",
-    opts: { series: ["book", "IN", "PoFV", "StB", "HM"], stage: ["st2"] }
-  },
-  {
-    name: "Kamishirasawa Keine",
-    img: "99w0Chm.png",
-    opts: { series: ["book", "IN", "StB", "HM", "ISC"], stage: ["st3", "ex"] }
-  },
-  {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
-    opts: { series: ["book", "IN", "PoFV", "StB", "HM"], stage: ["st5"] }
-  },
-  {
-    name: "Reisen Udongein Inaba",
-    img: "PrYzRcC.png",
-    opts: {
-      series: ["book", "IN", "PoFV", "StB", "Soku", "HM", "LoLK"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Yagokoro Eirin",
-    img: "ceo4DhK.png",
-    opts: { series: ["book", "IN", "StB", "HM"], stage: ["st6"] }
-  },
-  {
-    name: "Houraisan Kaguya",
-    img: "2YDuTk3.png",
-    opts: { series: ["book", "IN", "StB", "HM"], stage: ["st6"] }
-  },
-  {
-    name: "Fujiwara no Mokou",
-    img: "3zo4VKV.png",
-    opts: { series: ["book", "IN", "StB", "HM", "ISC", "ULiL"], stage: ["ex"] }
-  },
-  {
-    name: "Shameimaru Aya",
-    img: "8TLXMST.png",
-    opts: {
-      series: ["book", "PoFV", "StB", "MoF", "SWR", "Soku", "HM", "ISC"],
-      stage: ["st4"]
-    }
-  },
-  {
-    name: "Medicine Melancholy",
-    img: "IImsp7K.png",
-    opts: { series: ["book", "PoFV", "StB", "HM"], stage: ["st4"] }
-  },
-  {
-    name: "Kazami Yuuka",
-    img: "MZXJQq5.png",
-    opts: { series: ["book", "PoFV", "StB", "HM"], stage: ["st5"] }
-  },
-  {
-    name: "Onozuka Komachi",
-    img: "aX4WIH8.png",
-    opts: {
-      series: ["book", "PoFV", "StB", "MoF", "Soku", "HM"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Shiki Eiki, Yamaxanadu",
-    img: "nPBvatH.png",
-    opts: { series: ["book", "PoFV", "StB", "HM"], stage: ["st6"] }
-  },
-  {
-    name: "Aki Shizuha",
-    img: "3pDRgvR.png",
-    opts: { series: ["SWR", "DS", "HM"], stage: ["st1"] }
-  },
-  {
-    name: "Aki Minoriko",
-    img: "bV0DaN7.png",
-    opts: { series: ["SWR", "DS", "HM"], stage: ["st1"] }
-  },
-  {
-    name: "Kagiyama Hina",
-    img: "J11NjNj.png",
-    opts: { series: ["SWR", "DS", "HM"], stage: ["st2"] }
-  },
-  {
-    name: "Kawashiro Nitori",
-    img: "4Ufced2.png",
-    opts: { series: ["SWR", "DS", "HM", "ISC", "ULiL"], stage: ["st3"] }
-  },
-  {
-    name: "Inubashiri Momiji",
-    img: "qGMjnYk.png",
-    opts: { series: ["SWR", "DS", "ISC"], stage: ["st4"] }
-  },
-  {
-    name: "Kochiya Sanae",
-    img: "ATTRSWU.png",
-    opts: {
-      series: ["SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "ISC", "LoLK"],
-      stage: ["st5", "ex"]
+      series: ["skyfc"]
     }
   },
   {
