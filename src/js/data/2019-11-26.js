@@ -8,8 +8,8 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain series.",
     checked: false,
     sub: [
-      { name: "Books and CDs", key: "book" },
-      { name: "The Highly Responsive to Prayers", tooltip: "01 - Reiiden", key: "HRtP" },
+      { name: "Trails in the Sky FC", key: "skyfc" },
+      { name: "Trails in the Sky SC", tooltip: "01 - Reiiden", key: "HRtP" },
       { name: "The Story of Eastern Wonderland", tooltip: "02 - Fuumaroku", key: "SoEW" },
       { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
       { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
