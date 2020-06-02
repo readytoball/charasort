@@ -53,6 +53,7 @@ dataSet[dataSetVersion].characterData = [
     img: "rbFKdHE.jpg?1",
     opts: {
       series: ["skyfc"],
+	  stage: ["st4"]
     }
   },
   {
@@ -62,73 +63,86 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Rock on the Road",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] }
+    opts: { series: ["skyfc"] 
+	stage: ["st4"]}
   },
   {
     name: "Sophisticated Fight",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: [ "skyfc"]}
+      series: [ "skyfc"]
+	  stage: ["st4"]}
   },
   {
     name: "Defeat",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] }
+    opts: { series: ["skyfc"]
+stage: ["st4"]	}
   },
   {
     name: "Tetracyclic Tower",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"]}
+    opts: { series: ["skyfc"]
+	stage: ["st4"]}
   },
   {
     name: "Under the Moonlight",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"],
+      series: ["skyfc"]
+	  stage: ["st4"],
     }
   },
   {
     name: "A Cat Relaxing in the Sun",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: [ "skyfc"],
+      series: [ "skyfc"]
+	  stage: ["st4"],
     }
   },
   {
     name: "Secret Green Passage",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"],
+      series: ["skyfc"]
+	  stage: ["st4"],
     }
   },
   {
     name: "In My Heart",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] }
+    opts: { series: ["skyfc"] 
+	stage: ["st4"]}
   },
   {
     name: "The Way They Walk in Liberl",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] }
+    opts: { series: ["skyfc"]
+stage: ["st4"]	}
   },
   {
     name: "Commercial City of Bose",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"],
+      series: ["skyfc"]
+	  stage: ["st4"],
     }
   },
   {
     name: "Border Patrol Isn't Easy",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"],
+      series: ["skyfc"]
+	  stage: ["st4"],
     }
   },
   {
     name: "Steel Floor Blocking the Way",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] }
+    opts: { series: ["skyfc"]
+	stage: ["st4"]
+	}
   },
   {
     name: "We Are the Capua Family!",
