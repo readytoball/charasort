@@ -42,11 +42,10 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Setting Off",
+    img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
-      stage: ["st4", "ex"]
+      game: ["skyfc"],
     }
   },
   {
