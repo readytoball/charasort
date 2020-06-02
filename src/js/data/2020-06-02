@@ -4,7 +4,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].options = [
   {
     name: "Filter by Game",
-    key: "game",
+    key: "series",
     tooltip: "Check this to restrict to certain games, or choose Battle Music alone to rank all of the battle themes.",
     checked: false,
     sub: [
@@ -38,20 +38,20 @@ dataSet[dataSetVersion].characterData = [
     name: "Sora no Kiseki",
     img: "rbFKdHE.jpg?1",
     opts: {
-      game: ["skyfc"],
+      series: ["skyfc"],
     }
   },
   {
     name: "Setting Off",
     img: "rbFKdHE.jpg?1",
     opts: {
-      game: ["skyfc"],
+      series: ["skyfc"],
     }
   },
   {
-    name: "Rumia",
-    img: "0YT7QlS.png",
-    opts: { series: ["book", "EoSD", "StB", "HM"], stage: ["st1"] }
+    name: "Provincial City of Rolent",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"}
   },
   {
     name: "Daiyousei",
