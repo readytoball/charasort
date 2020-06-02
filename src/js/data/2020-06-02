@@ -273,14 +273,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yasaka Kanako",
-    img: "nQ78Lz7.png",
-    opts: { series: ["SWR", "Soku", "DS", "HM", "ISC"], stage: ["st6", "ex"] }
+    name: "Feelings Soar with the Wind",
+    img: "rbFKdHE.jpg?1",
+    opts: { series: ["skyfc"] }
   },
   {
-    name: "Moriya Suwako",
+    name: "Welcome to Le-Locle",
     img: "yJaD5ZV.png",
-    opts: { series: ["SWR", "SA", "Soku", "DS", "HM", "ISC"], stage: ["ex"] }
+    opts: { series: ["skysc"] }
   },
   {
     name: "Nagae Iku",
