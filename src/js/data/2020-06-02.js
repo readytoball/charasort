@@ -242,7 +242,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Those Who Protect the Greatest Treasure",
-    img: "rbFKdHE.jpg?1",
+    img: "rbFKdHE.jpg",
     opts: { series: ["skyfc"] }
   },
   {
@@ -564,7 +564,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mima",
-    img: "odH03t2.png",
+    img: "3ekPRF1.jpg?1",
     opts: {
       series: ["HRtP", "SoEW", "PoDD", "MS"],
       stage: ["st3", "st5", "st6"]
