@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Game",
     key: "series",
     tooltip: "Check this to restrict to certain games.",
-    checked: true,
+    checked: false,
     sub: [
       { name: "Trails in the Sky FC", key: "skyfc" },
       { name: "Trails in the Sky SC", key: "skysc" },
