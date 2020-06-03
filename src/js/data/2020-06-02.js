@@ -5,7 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by Game",
     key: "series",
-    tooltip: "Check this to restrict to certain games, or choose Battle Music alone to rank all of the battle themes.",
+    tooltip: "Check this to restrict to certain games.",
     checked: true,
     sub: [
       { name: "Trails in the Sky FC", key: "skyfc" },
@@ -22,11 +22,7 @@ dataSet[dataSetVersion].options = [
   },
  
 
-  {
-    name: "Remove Arc en Ciel",
-    key: "arc",
-    tooltip: "Check this to remove all Arc en Ciel songs."
-  }
+
 ];
 
 dataSet[dataSetVersion].characterData = [
