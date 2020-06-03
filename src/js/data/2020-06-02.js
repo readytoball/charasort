@@ -283,6 +283,11 @@ dataSet[dataSetVersion].characterData = [
     img: "3ekPRF1.jpg?1",
     opts: { series: ["skysc"] }
   },
+  {
+    name: "Fight with Assailant",
+    img: "3ekPRF1.jpg?1",
+    opts: { series: ["skysc"] }
+  },
   
 
 ];
