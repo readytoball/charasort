@@ -53,7 +53,6 @@ dataSet[dataSetVersion].characterData = [
     img: "rbFKdHE.jpg?1",
     opts: {
       series: ["skyfc"],
-	  stage: ["st4"]
     }
   },
   {
@@ -63,85 +62,73 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Rock on the Road",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] 
-	stage: ["st4"]}
+    opts: { series: ["skyfc"] }
   },
   {
     name: "Sophisticated Fight",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: [ "skyfc"]
-	  stage: ["st4"]}
+      series: [ "skyfc"]}
   },
   {
     name: "Defeat",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"]
-stage: ["st4"]	}
+    opts: { series: ["skyfc"]	}
   },
   {
     name: "Tetracyclic Tower",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"]
-	stage: ["st4"]}
+    opts: { series: ["skyfc"]}
   },
   {
     name: "Under the Moonlight",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"]
-	  stage: ["st4"],
+      series: ["skyfc"],
     }
   },
   {
     name: "A Cat Relaxing in the Sun",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: [ "skyfc"]
-	  stage: ["st4"],
+      series: [ "skyfc"],
     }
   },
   {
     name: "Secret Green Passage",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"]
-	  stage: ["st4"],
+      series: ["skyfc"],
     }
   },
   {
     name: "In My Heart",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"] 
-	stage: ["st4"]}
+    opts: { series: ["skyfc"] }
   },
   {
     name: "The Way They Walk in Liberl",
     img: "rbFKdHE.jpg?1",
-    opts: { series: ["skyfc"]
-stage: ["st4"]	}
+    opts: { series: ["skyfc"]	}
   },
   {
     name: "Commercial City of Bose",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"]
-	  stage: ["st4"],
+      series: ["skyfc"],
     }
   },
   {
     name: "Border Patrol Isn't Easy",
     img: "rbFKdHE.jpg?1",
     opts: {
-      series: ["skyfc"]
-	  stage: ["st4"],
+      series: ["skyfc"],
     }
   },
   {
     name: "Steel Floor Blocking the Way",
     img: "rbFKdHE.jpg?1",
     opts: { series: ["skyfc"]
-	stage: ["st4"]
 	}
   },
   {
