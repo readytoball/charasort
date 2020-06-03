@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Game",
     key: "series",
     tooltip: "Check this to restrict to certain games, or choose Battle Music alone to rank all of the battle themes.",
-    checked: false,
+    checked: true,
     sub: [
       { name: "Trails in the Sky FC", key: "skyfc" },
       { name: "Trails in the Sky SC", key: "skysc" },
